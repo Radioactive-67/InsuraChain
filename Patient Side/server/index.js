@@ -18,7 +18,7 @@ app.use(express.json())
 app.use(cors())
 
 // connection
-mongoose.connect("mongodb+srv://admin:admin@insurachain.iizi3gl.mongodb.net/patient?retryWrites=true&w=majority",
+mongoose.connect("<----Your MongoDB URI---->",
 {
     useNewUrlParser: true,
 });
