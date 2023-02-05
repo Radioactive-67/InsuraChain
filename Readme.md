@@ -3,7 +3,7 @@
 npm install
 nodemon app.js
 
-#For Patient Side cd to client and server then run
+#For the Patient Side cd to client and server then run
 for client run
 npm install
 npm start
